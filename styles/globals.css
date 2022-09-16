@@ -24,3 +24,7 @@ a {
     background: black;
   }
 }
+.pop {
+  color: rgb(20, 233, 66);
+  overflow: hidden;
+}
